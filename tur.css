@@ -1,0 +1,69 @@
+
+body{
+	margin: 0px;
+	background-color: #FFCCFF;
+	
+}
+.devel{ color:blue;
+ FONT-SIZE: 7.5pt; FONT-FAMILY: verdana,sans-serif,arial;
+  text-align: center ;
+}
+td {
+	color: #6666cc;
+	FONT-SIZE: 9pt;
+	FONT-FAMILY: verdana,sans-serif,arial;
+	
+}
+
+form td {
+	color: #6666cc;
+	FONT-SIZE: 9pt;
+	FONT-FAMILY: verdana,sans-serif,arial;
+
+}
+th{
+	color: #6666cc;
+	FONT-SIZE: 10pt;
+	FONT-FAMILY: verdana,sans-serif,arial;
+	font-weight: bold;
+  margin-right: 50px;
+  text-transform: uppercase
+}
+.box{
+
+	background-color: #6666cc;
+	color: #FFCCFF;
+	border: 1px double #6666cc;
+  position: relative
+}
+.tab{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 0px;
+
+}
+p{
+    FONT-SIZE: 9pt;
+	FONT-FAMILY: verdana,sans-serif,arial;
+  text-indent: 20px;
+  text-align: justify;
+  line-height: 2;
+}
+ h3,h5{
+   color: #9966cc;
+ }
+.graph{
+  font-size: 7.5pt;
+ 
+}
+.t{
+	border-collapse: collapse;
+	border: thin solid #9966cc;
+	margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 0px;
+}
+.t2{
+	border-bottom: thin solid #9966cc;
+	font-size: 7.5pt;
+}
